@@ -1,0 +1,15 @@
+C:\mpt\С#\Cakes\Cakes\bin\Debug\net6.0\Cakes.exe
+C:\mpt\С#\Cakes\Cakes\bin\Debug\net6.0\Cakes.deps.json
+C:\mpt\С#\Cakes\Cakes\bin\Debug\net6.0\Cakes.runtimeconfig.json
+C:\mpt\С#\Cakes\Cakes\bin\Debug\net6.0\Cakes.dll
+C:\mpt\С#\Cakes\Cakes\bin\Debug\net6.0\Cakes.pdb
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.csproj.AssemblyReference.cache
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.AssemblyInfoInputs.cache
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.AssemblyInfo.cs
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.csproj.CoreCompileInputs.cache
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.dll
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\refint\Cakes.dll
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.pdb
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\Cakes.genruntimeconfig.cache
+C:\mpt\С#\Cakes\Cakes\obj\Debug\net6.0\ref\Cakes.dll
